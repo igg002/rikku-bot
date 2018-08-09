@@ -1,0 +1,2 @@
+# rikku-bot
+Rikku
